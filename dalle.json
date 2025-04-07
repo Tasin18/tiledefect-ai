@@ -1,0 +1,52 @@
+[
+    {
+        "image_path": "/kaggle/input/dalle3/fake/1.jpg",
+        "is_true": false,
+        "caption": "Amidst the towering skyscrapers and congested streets of a metropolis, chaotic energy abounds. The scene is a collision of neon lights, honking vehicles, rushing pedestrians, and graffiti-covered walls, all contributing to an unrelenting urban frenzy"
+    },
+    {
+        "image_path": "/kaggle/input/dalle3/fake/2.jpg",
+        "is_true": false,
+        "caption": "Amidst the towering skyscrapers and congested streets of a metropolis, chaotic energy abounds. The scene is a collision of neon lights, honking vehicles, rushing pedestrians, and graffiti-covered walls, all contributing to an unrelenting urban frenzy."
+    },
+    {
+        "image_path": "/kaggle/input/dalle3/fake/3.jpg",
+        "is_true": false,
+        "caption": "Wide anime-styled hand-drawn image with watercolor blending on chrome steel, echoing 20th century symbolism and Klimt's artistry, set in the 1940s. A man, with a noble stance but a less polished appearance, softly interacts with an enigmatic entity. There's a subtle, uncanny quality to his expression and the overall composition, creating a sense of unease and curiosity. The image exudes both authority and a hint of eeriness. Genre: Tragic romance. White borders"
+    },
+    {
+        "image_path": "/kaggle/input/dalle3/fake/4.jpg",
+        "is_true": false,
+        "caption": "In a serene and surreal tableau, an artist in all-white attire floats gracefully in a pool of milk. Her closed eyes and tranquil expression convey deep introspection as ripples radiate from their gentle movements, blurring the boundaries between reality and imagination."
+    },
+    {
+        "image_path": "/kaggle/input/dalle3/fake/5.jpg",
+        "is_true": false,
+        "caption": "In a serene and surreal tableau, an artist in all-white attire floats gracefully in a pool of milk. Her closed eyes and tranquil expression convey deep introspection as ripples radiate from their gentle movements, blurring the boundaries between reality and imagination."
+    },
+    {
+        "image_path": "/kaggle/input/dalle3/fake/6.jpg",
+        "is_true": false,
+        "caption": "In a serene and surreal tableau, an artist in all-white attire floats gracefully in a pool of milk. Her closed eyes and tranquil expression convey deep introspection as ripples radiate from their gentle movements, blurring the boundaries between reality and imagination."
+    },
+    {
+        "image_path": "/kaggle/input/dalle3/fake/7.jpg",
+        "is_true": false,
+        "caption": "Photo of a male hand with medium skin tone applying hand cream from a pump dispenser bottle branded 'Hands Down Softest'. The background features a wooden table and a vase with a small aloe plant."
+    },
+    {
+        "image_path": "/kaggle/input/dalle3/fake/8.jpg",
+        "is_true": false,
+        "caption": "a golfer preparing to swing her club at the opening round of the golfing championship. The green golf course glistens in the background on a warm summer day"
+    },
+    {
+        "image_path": "/kaggle/input/dalle3/fake/9.jpg",
+        "is_true": false,
+        "caption": "a golfer preparing to swing her club at the opening round of the golfing championship. The green golf course glistens in the background on a warm summer day"
+    },
+    {
+        "image_path": "/kaggle/input/dalle3/fake/10.jpg",
+        "is_true": false,
+        "caption": "Artistic representation in HD, 8K of a pair of immense hands, each adorned with five fingers, created using natural elements like flowing rivers, tall trees, blooming flowers, and a radiant sun. These hands seem painted on a huge city wall. A Murano clear glass texture forms the background, with the silhouette of a colorful city subtly elevated from it. Embodying touch and the essence of human connections, the image blends urban and street art influences, with a dash of futurism and a touch of Hokusai."
+    },
+]
