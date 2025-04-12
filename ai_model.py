@@ -69,7 +69,7 @@ class TileDefectDetector:
             print(f"Drawing box at x1={x1}, y1={y1}, x2={x2}, y2={y2}")
             
             # Draw bounding box (green, width=5 to match your example)
-            draw.rectangle([x1, y1, x2, y2], outline="green", width=5)
+            draw.rectangle([x1, y1, x2, y2], outline="red", width=10)
             
             # Add label and confidence
             label = f"{defect['defect_type']} {defect['confidence']:.2f}"
