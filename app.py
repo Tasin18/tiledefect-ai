@@ -80,4 +80,3 @@ if uploaded_file is not None:
 
 # Footer
 st.markdown("---")
-st.write("© 2025 TileDefect AI. Powered by Streamlit and YOLOv8.")
